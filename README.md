@@ -48,3 +48,11 @@ rbac-management-system/
 │
 ├── README.md                 # Project documentation
 ├── package.json              # Project dependencies and scripts
+
+
+
+Screenshot:
+
+![image](https://github.com/user-attachments/assets/563e6dc4-e4e5-421a-ba4e-0b395eb3152a)
+![image](https://github.com/user-attachments/assets/ce75a67f-06f0-4dc4-aa5c-82e3da8eb5df)
+
