@@ -53,6 +53,5 @@ rbac-management-system/
 
 Screenshot:
 
-![image](https://github.com/user-attachments/assets/563e6dc4-e4e5-421a-ba4e-0b395eb3152a)
-![image](https://github.com/user-attachments/assets/ce75a67f-06f0-4dc4-aa5c-82e3da8eb5df)
+https://github.com/tarnuN/Project-VRV-01/blob/7e13d0a11bb4d7d8a8863177f67a7043c700bc3d/2024-11-27.png
 
